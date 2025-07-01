@@ -1,4 +1,9 @@
 # About me Zongwei Pu
+Professional Summary
+
+I am passionate about leveraging AI/ML to drive measurable productivity gains. I am trained via Purdue–Simplilearn’s Postgraduate Program in AI/ML and explored LLM-driven RAG, A2A, and MCP methodologies.
+As a Strategic Site Reliability Engineering Lead with over 20 years of experience designing, deploying, and supporting high-availability e-commerce platforms, I architect and optimize enterprise-scale systems—defining critical use cases, enhancing user experience, and ensuring reliability across AWS environments and middleware stacks (WebLogic, WebSphere, Tomcat). Equally adept in both Agile and traditional methodologies, I oversee end-to-end project lifecycles—from requirements analysis and estimation through development, testing, and production support—while championing automation and observability strategies that reduce costs and proactively safeguard platform health.
+
 1. Education Background
   - BS in Mathematics 
   - MS in Statistics 
